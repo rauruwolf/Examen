@@ -1,0 +1,16 @@
+h1 {
+  color: darkorange;
+  text-align: center;
+}
+h2 {
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+}
+tr {
+	background-color: darkorange; 
+}
+
+img ropa-deportiva.png{
+	scale: 120px 120px;
+}

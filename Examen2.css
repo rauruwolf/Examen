@@ -1,0 +1,15 @@
+h1 {
+  color: darkorange;
+  text-align: center;
+  font-family: courier;
+  font-weight: 32px
+}
+
+h2 {
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+}
+tr {
+	background-color: darkorange; 
+}
